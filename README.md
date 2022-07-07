@@ -8,7 +8,7 @@
 I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 <!-- CHANGE-02 /username/ -> username yerine github username yaz ve Istenen Reponun Adı-->
-- [x] [Python Data Analysis Projects](https://github.com/username/Data-Analysis-Projects "Python Data Analysis Projects")
+<!--- [x] [Python Data Analysis Projects](https://github.com/username/Data-Analysis-Projects "Python Data Analysis Projects") -->
 
 - [x] I'm currently working on various kaggle projects with my Teammates.
 
@@ -18,7 +18,7 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 
 - [x] 💬 Ask  me about anything that you want to learn
 
-- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin]
+- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin] (https://www.linkedin.com/in/ilkerkilaz/)
 
 
 <table>

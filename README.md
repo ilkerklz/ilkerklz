@@ -90,28 +90,3 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
     </tbody>
 </table>
 
-
-## 📈 Statistics
-<p align="center">
-<!-- CHANGE-03 ...username=NAME&theme -> NAME yerine github username yaz -->
-<img src="https://github-readme-stats.vercel.app/api?username=NAME&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NAME&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAME&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
-
-<!-- CHANGE-04 .../username/ -> username yerine github username yaz -->
-[Linkedin]: https://www.linkedin.com/in/username/ "LinkedIn"
-[github_pages]: https://username.github.io/ "GitHub Pages"
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

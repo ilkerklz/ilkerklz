@@ -10,11 +10,11 @@ I prefer Kaggle for Data Analysis and Data Science project.<br>
 <!-- CHANGE-02 /username/ -> username yerine github username yaz ve Istenen Reponun Adı-->
 <!--- [x] [Python Data Analysis Projects](https://github.com/username/Data-Analysis-Projects "Python Data Analysis Projects") -->
 
-- [x] I'm currently working on various kaggle projects with my Teammates.
+- [x] I'm currently working on various kaggle projects with my teammates.
 
-- [x] My future goal is to advance my Data Science knowledge with Teammates.
+- [x] My future goal is to advance my Data Science knowledge with teammates.
 
-- [x] Python, SQL, HTML5, CSS3, JavaScript, Android Studio, Git, GitHub
+- [x] Python, SQL, Git, GitHub
 
 - [x] 💬 Ask  me about anything that you want to learn
 

@@ -1,23 +1,19 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilkerkilaz/)] [<img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/>][github_pages]
 
 <!-- CHANGE-01 /?username=NAME -> NAME yerine github username yaz -->
-## Hi there, I'm Ilker aka ilkerklz 👋 <img src="https://komarev.com/ghpvc/?username=ilkerklz" alt="visitor counter" style="text-align: right;"/>
+## Hi there, I'm Ilker 👋 <img src="https://komarev.com/ghpvc/?username=ilkerklz" alt="visitor counter" style="text-align: right;"/>
 
-## What I'm using ? 🛠
-
-I prefer Kaggle for Data Analysis and Data Science project.<br>
+I'm a data professional from Turkey. I have experience in data analytics and machine learning. I also enjoy building side projects in my free time.
 
 <!-- CHANGE-02 /username/ -> username yerine github username yaz ve Istenen Reponun Adı-->
 <!--- [x] [Python Data Analysis Projects](https://github.com/username/Data-Analysis-Projects "Python Data Analysis Projects") -->
 
-- [x] I'm currently working on various kaggle projects with my teammates.
+- [x] My future goal is to advance my data science and cloud computing knowledge.
 
-- [x] My future goal is to advance my Data Science knowledge with teammates.
+- [x] Python, SQL, Git, GitHub, Tableau, Power BI, Linux
 
-- [x] Python, SQL, Git, GitHub
-
-- [x] 💬 Ask  me about anything that you want to learn
-
+<h1 align="left"> :linkedin: <a href="https://www.linkedin.com/in/ilkerkilaz/">Follow or Reach out On LinkedIn <a></h1>
+    
 - [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin] (https://www.linkedin.com/in/ilkerkilaz/)
 
 

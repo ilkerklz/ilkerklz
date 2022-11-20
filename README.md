@@ -11,9 +11,7 @@ I'm a data professional from Turkey. I have experience in data analytics and mac
 - [x] My future goal is to advance my data science and cloud computing knowledge.
 
 - [x] Python, SQL, Git, GitHub, Tableau, Power BI, Linux
-
-<h1 align="left"> :linkedin: <a href="https://www.linkedin.com/in/ilkerkilaz/">Follow or Reach out On LinkedIn <a></h1>
-    
+ 
 - [x] Follow or reach out on <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/> (https://www.linkedin.com/in/ilkerkilaz/)
 
 

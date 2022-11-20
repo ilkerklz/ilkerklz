@@ -14,7 +14,7 @@ I'm a data professional from Turkey. I have experience in data analytics and mac
 
 <h1 align="left"> :linkedin: <a href="https://www.linkedin.com/in/ilkerkilaz/">Follow or Reach out On LinkedIn <a></h1>
     
-- [x] You can reach me via Linkedin: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/>][Linkedin] (https://www.linkedin.com/in/ilkerkilaz/)
+- [x] Follow or reach out on <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="18.5"/> (https://www.linkedin.com/in/ilkerkilaz/)
 
 
 <table>

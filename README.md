@@ -1,6 +1,6 @@
 ## Hi there, I'm Ilker 👋 <img src="https://komarev.com/ghpvc/?username=ilkerklz" alt="visitor counter" style="text-align: right;"/>
 
-I'm a data professional from Turkey. I have experience in data analytics and machine learning. I also enjoy building side projects in my free time.
+I'm a data professional. I have experience in data analytics and machine learning. I also enjoy building side projects in my free time.
 
 - 🔭: My goal is to advance my data science knowledge and gain experience in cloud computing.
 
